@@ -2,7 +2,7 @@ Resources:
  CreateTests3fillaccessPolicy:
   Type: 'AWS::IAM::ManagedPolicy'
   Properties:
-    Description: Policy for creating s3 full access
+    Description: Policy for creating s3 full access test
     Path: /
     PolicyDocument:
       Version: "2012-10-17"
